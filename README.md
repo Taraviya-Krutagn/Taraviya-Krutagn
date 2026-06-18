@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Krutagn Taraviya 👋
 
-<!--
-**Taraviya-Krutagn/Taraviya-Krutagn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Preparing for:
+
+* GATE CSE 2027
+* Software Engineering Placements
+
+💡 Interested in:
+
+* Artificial Intelligence
+* Machine Learning
+* Data Structures & Algorithms
+* Software Development
+
+## Skills
+
+### Languages
+
+* C
+* C++
+* Java
+* Python
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* MySQL
+
+## Current Goals
+
+* Master DSA
+* Crack GATE CSE
+* Build AI Projects
+* Secure a Product-Based Company Placement
+
+## Contact
+
+* LinkedIn: Add your LinkedIn link
+* Email: Add your email
+
+⭐ Always learning and improving.
